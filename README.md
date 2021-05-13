@@ -1,3 +1,3 @@
-| DigitalOcean                                                                                                         | Crypto.com                                                                                                                                |
-|:--------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
-| [![ocean](https://raw.githubusercontent.com/giansalex/giansalex/master/sp/digitalocean.png)](https://bit.ly/2H0zmGF) | [![crypto.com](https://raw.githubusercontent.com/giansalex/giansalex/master/sp/crypto-com.png)](https://crypto.com/exch/chr2wsfs6g) |
+| DigitalOcean Credit :moneybag:                                                                                       |
+|:--------------------------------------------------------------------------------------------------------------------:|
+| [![ocean](https://raw.githubusercontent.com/giansalex/giansalex/master/sp/digitalocean.png)](https://bit.ly/2H0zmGF) |
